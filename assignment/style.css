@@ -1,9 +1,9 @@
-.header {
+.notAnOctothorpe {
     background-color: darkmagenta;
     color: greenyellow;
     text-align: center;
 }
-.main {
+.alsoNotAnOctothorpe {
     background-color: lightgrey;
     padding: 1em;
 }
